@@ -76,7 +76,7 @@ export const HomePage = () => {
         {/*  */}
         <div className="flex gap-6 justify-center">
           <p className="text-sm text-gray-500">
-            Note:Please note that your data stays private and secure.You can
+            Please note that your data stays private and secure.You can
             update or delete it anytime
           </p>
         </div>

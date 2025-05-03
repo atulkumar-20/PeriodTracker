@@ -1,8 +1,5 @@
+import { PeriodTracker } from '@/components/PeriodTracker';
 
 export const InfoPage = () => {
-  return (
-    <>
-      <div className="InfoPage">InfoPage</div>
-    </>
-  );
+  return <PeriodTracker />;
 };
